@@ -23,7 +23,7 @@
 
     | Size        | CPU performance | Memory performance |
     | ----------- | --------------- | ------------------ |
-    | `t2.micro` |        4264         |                    |
+    | `t2.micro` |        4264 MIPS        |      11463.85 MB/s       |
     | `t2.medium`  |                 |                    |
     | `c5d.large` |                 |                    |
 
