@@ -24,7 +24,7 @@
     | Size        | CPU performance | Memory performance |
     | ----------- | --------------- | ------------------ |
     | `t2.micro` |        4264 MIPS        |      11463.85 MB/s       |
-    | `t2.medium`  |                 |                    |
+    | `t2.medium`  |       10252 MIPS          |        19812.90 MB/s   |
     | `c5d.large` |                 |                    |
 
     > Region: US East (N. Virginia). Use `Ubuntu Server 22.04 LTS (HVM)` as AMI.
