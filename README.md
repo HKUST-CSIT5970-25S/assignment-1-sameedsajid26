@@ -23,7 +23,7 @@
 
     | Size        | CPU performance | Memory performance |
     | ----------- | --------------- | ------------------ |
-    | `t2.micro` |                 |                    |
+    | `t2.micro` |        4264         |                    |
     | `t2.medium`  |                 |                    |
     | `c5d.large` |                 |                    |
 
